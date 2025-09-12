@@ -2,7 +2,7 @@
   "name": "db_com_ind",
   "version": "0.1.0",
   "private": true,
-  "homepage": "",
+  "homepage": "ttps://dgpcsegob.github.io/db_com_ind",
   "dependencies": {
     "@aesqe/mapboxgl-minimap": "^1.0.0",
     "@mapbox-controls/ruler": "^3.0.0",
